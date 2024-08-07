@@ -1,0 +1,7 @@
+configuration_file_path         = ""
+default_location                = "eastus"
+default_postfix                 = "landing-zone"
+root_parent_management_group_id = ""
+subscription_id_connectivity    = "9059abd8-c5dd-48bf-8458-a11b0c3bd1c7"
+subscription_id_identity        = "7b821170-eb93-467e-b9e4-ecd99e98abd9"
+subscription_id_management      = "0b72b65c-578e-456c-9568-51e90325db10"
